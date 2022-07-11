@@ -6,7 +6,8 @@
     <h6> 🧠 I enjoy problem solving and challenges </h6>
     <h6> ⚛️ I am learning Javascript, Ruby and React. </h6>
     <h6>📫 How to reach me: rakshak_81@hotmail.com </h6>
-  </div>
+      <h6>📄 Check out my  <a href="https://github.com/Rakshak81/CV" target="_blank">CV</a> 
+  </div></h6>
 
 <div>
     <h3 align="left"> Tech stack... </h3>
