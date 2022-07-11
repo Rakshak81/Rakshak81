@@ -5,6 +5,7 @@
     <h6> 🔭 I’m currently looking for my first role as a developer. </h6>
     <h6> 🧠 I enjoy problem solving and challenges </h6>
     <h6> ⚛️ I am learning Javascript, Ruby and React. </h6>
+    <h6>📫 How to reach me: rakshak_81@hotmail.com </h6>
   </div>
 
 <div>
